@@ -9,10 +9,11 @@ Als we het over JavaScript hebben, typen we verkort JS.
 * Maak twee variabelen aan: je naam en je studentnummer
 * Maak een functie met een alertbox die jouw naam en jouw studentnummer toont
 * Roep de functie aan, na het inladen van jouw webpagina (index.html)
-* Begin/ maak in de README.md van deze repository een cheat-sheet met daarin
+* Begin/ maak in de README.md van de main repository een cheat-sheet met daarin
 * * Het verschil tussen een function en een method
 * * Het verschil tussen een C# variabele met datatype en de twee soorten variabelen in JS
 * * Het verschil in benamingen van een function in JS en een method in C# (code convention)
+* * **LET OP** Je moet hiervoor van branch wisselen tijdens je werk!
 * Lees de hoofdstukken 1.1, 1.3, 1.4, 2.1, 2.15, 2.6, 3.1, 3.2 van https://javascript.info
 * * Elk SCRUM-team maakt een korte presentatie van een (aantal) hoofdstukken
 
@@ -56,10 +57,4 @@ Om een nieuwe branch aan te maken en daarnaar toe te wisselen
 Om een nieuwe branch voor het eerst te pushen naar de server
 
 ```git push origin <repsository>```
-
-
-## CHEATSHEET
-Schrijf hieronder de opdrachten voor de Cheatsheet
-
-
 
