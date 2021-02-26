@@ -14,12 +14,11 @@ Als we het over JavaScript hebben, typen we verkort JS.
 * * Het verschil tussen een C# variabele met datatype en de twee soorten variabelen in JS
 * * Het verschil in benamingen van een function in JS en een method in C# (code convention)
 * * **LET OP** Je moet hiervoor van branch wisselen tijdens je werk!
-* Lees de hoofdstukken 1.1, 1.3, 1.4, 2.1, 2.15, 2.6, 3.1, 3.2 van https://javascript.info
+* Lees de volgende paragrafen van PART 1: 1.1, 1.3, 1.4, 2.1, 2.15, 2.6, 3.1, 3.2 van https://javascript.info
 * * Elk SCRUM-team maakt een korte presentatie van een (aantal) hoofdstukken
 
 **LET OP** Je gebruikt uiteraard de juiste code conventie (benamingen, begrijpbare
 variabelen etc.
-
 
 ## GIT werken
 Zorg ervoor dat je vaak commit en pushed, dit willen we in je branch ook terug zien.
