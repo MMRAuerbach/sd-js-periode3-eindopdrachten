@@ -5,6 +5,8 @@ ook terug in jouw Github repository.
 
 Je hebt een klein stuk je HTML gekregen, daar gaan we mee werken.
 
+Uiteraard als developer zorg je er ook voor dat de HTML en CSS een beetje leuk eruit ziet ;-) 
+
 **LET OP** Zorg ervoor dat je op de elementen met class-name werkt
 
 ## Opdrachten
