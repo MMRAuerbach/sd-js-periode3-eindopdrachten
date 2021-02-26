@@ -11,7 +11,8 @@ Uiteraard als developer zorg je er ook voor dat de HTML en CSS een beetje leuk e
 
 ## Opdrachten
 * Zorg ervoor dat als je op de ```Header opdracht``` button klikt, de achtergrond van het header element veranderd
-* Zorg ervoor dat als je op de ```Main opdracht``` button klikt je een prompt krijgt om de tekst kleur te veranderen
+* Zorg ervoor dat als je op de ```Main opdracht``` button klikt je een prompt krijgt om de tekst kleur te veranderen 
+van de tekst in het main-element
 * * Na het invullen, veranderd uiteraard de achtergrond kleur ;-)
 * Vind het eerste LI element en toon middels de juiste loop al zijn/ haar siblings
 * * **ADVANCED** Toon ook de tekst in het element
