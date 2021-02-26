@@ -4,7 +4,11 @@ In deze repository ga je aan de slag met de eindopdracht. Deze bestaat uit een a
 
 Als we het over JavaScript hebben, typen we verkort JS.
 
-## Onderdelen
+In de studentenhandleiding vind je de stories en todo's die bij deze opdrachten horen.
+
+Uiteraard als developer zorg je er ook voor dat de HTML en CSS een beetje leuk eruit ziet ;-) 
+
+## Opdrachten
 
 * Maak twee variabelen aan: je naam en je studentnummer
 * Maak een functie met een alertbox die jouw naam en jouw studentnummer toont
