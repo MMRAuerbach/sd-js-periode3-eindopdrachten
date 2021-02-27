@@ -28,19 +28,19 @@ simpele rekenopdracht. We gebruiken uiteraard alle code van de drie sprints.
 * Kijk welk thema gekozen is, en zorg ervoor dat je alle elementen van stijl wissel van licht naar donker
 * Als laatste toon je in de developers console naar welk thema er gewisselt is
 * ***Advanced***
-* Maak een derde thema aan, kleuren maken niet uit. Zorg ervoor dat de gebruiker kan wisselen met 1 klik voor een van de thema's
-* Zorg voor een melding in het scherm die zegt naar welk thema er gewisselt is
+* * Maak een derde thema aan, kleuren maken niet uit. Zorg ervoor dat de gebruiker kan wisselen met 1 klik voor een van de thema's
+* * Zorg voor een melding in het scherm die zegt naar welk thema er gewisselt is
 
 ### Rekenmachine
 * Maak een event op de tweede button die een functie uitvoert (zie hieronder)
 * Als men op de button klikt sla je de waardes op in een Array
 * Daarna toon je voor alle waardes in de Array het aantal uur in een eigen element met telkens de tekst  "In .. dagen zit .. uur" 
 * ***Advanced***
-* Bereken ook het aantal minuten en seconden
-* Als het aantal uur minder is dan 24 maak je de tekst geel van het element
-* Als het aantal uur meer is dan 24 en minder dan 144 maak je de tekst blauw van het element
-* Als het aantal uur meer is dan 144 maak je de tekst rood van het element
+* * Bereken ook het aantal minuten en seconden
+* * Als het aantal uur minder is dan 24 maak je de tekst geel van het element
+* * Als het aantal uur meer is dan 24 en minder dan 144 maak je de tekst blauw van het element
+* * Als het aantal uur meer is dan 144 maak je de tekst rood van het element
 * ***Expert***
-* Sorteer het aantal dagen steeds van hoog naar laag
-* Maak een tweede input element aan en verzin een andere rekenoplossing
+* * Sorteer het aantal dagen steeds van hoog naar laag
+* * Maak een tweede input element aan en verzin een andere rekenoplossing
 
