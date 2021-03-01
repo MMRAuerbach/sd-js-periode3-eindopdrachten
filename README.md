@@ -1,4 +1,4 @@
-# JavaScript opdrachten - sprint 3 - eindopdracht
+# JavaScript opdrachten - sprint 4 - eindopdracht
 
 In deze eindopdracht gaan we alvast een beetje werken aan je thema-switcher en aan een simpele rekenoplossing.
 
